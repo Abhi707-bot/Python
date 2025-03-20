@@ -5,7 +5,7 @@
 
 # Set = {} unordered and immutable, but Add/Remove OK. No duplicates
 
-# Dictionary : a collection of {key:value} pairs
+# Dictionary : a collection of {key:value} pairs. ordered and changeable. No Duplicates
 
 # Tuple = () ordered and unchageable. Duplicates OK. FASTER
 
